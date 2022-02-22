@@ -1,0 +1,15 @@
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/NorthWind.Data.deps.json
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/NorthWind.Data.runtimeconfig.json
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/NorthWind.Data.runtimeconfig.dev.json
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/NorthWind.Data.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/ref/NorthWind.Data.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/bin/Debug/net5.0/NorthWind.Data.pdb
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.csproj.AssemblyReference.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.AssemblyInfoInputs.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.AssemblyInfo.cs
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.csproj.CoreCompileInputs.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/ref/NorthWind.Data.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.pdb
+/home/alexander/Desktop/Exercise02/src/NorthWind.Data/obj/Debug/net5.0/NorthWind.Data.genruntimeconfig.cache

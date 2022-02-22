@@ -1,0 +1,12 @@
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/bin/Debug/net5.0/NorthWind.Serialization.deps.json
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/bin/Debug/net5.0/NorthWind.Serialization.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/bin/Debug/net5.0/ref/NorthWind.Serialization.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/bin/Debug/net5.0/NorthWind.Serialization.pdb
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.csproj.AssemblyReference.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.AssemblyInfoInputs.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.AssemblyInfo.cs
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.csproj.CoreCompileInputs.cache
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/ref/NorthWind.Serialization.dll
+/home/alexander/Desktop/Exercise02/src/NorthWind.Serialization/obj/Debug/net5.0/NorthWind.Serialization.pdb
