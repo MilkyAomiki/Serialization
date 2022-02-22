@@ -32,10 +32,10 @@ namespace NorthWind.Data
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=localhost;Database=NorthWind;User Id=sa;Password=CinnamonRoll3141");
+                optionsBuilder.UseSqlServer("Server=192.168.10.134;Database=Afanasenko;User Id=Afanasenko;Password=cj33");
             }
         }
-//"Server=192.168.10.134;Database=Afanasenko;User Id=Afanasenko;Password=cj33"
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasAnnotation("Relational:Collation", "Cyrillic_General_CI_AS");
